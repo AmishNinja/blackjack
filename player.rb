@@ -39,7 +39,6 @@ class Player
 	def to_s
 		puts "#{self.name} has #{self.total} points."
 	end
-
 end
 
 

@@ -80,7 +80,4 @@ class Blackjack
 		self.dealer
 	end
 
-
-
-
 end
